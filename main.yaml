@@ -1,4 +1,4 @@
-ros-humble-ufs-interfaces:
+ufs_interfaces:
     debian:
         apt:
-            packages: [ufs_interfaces]
+            packages: [ros-humble-ufs-interfaces]

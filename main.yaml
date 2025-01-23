@@ -1,6 +1,6 @@
 ufs_interfaces:
-    jammy:
+    ubuntu:
         packages: [ros-humble-ufs-interfaces]
 ufs_date:
-    jammy:
+    ubuntu:
         packages: [libdate-dev]

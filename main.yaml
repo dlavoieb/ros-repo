@@ -1,4 +1,6 @@
 ufs_interfaces:
     ubuntu:
-        apt:
-            packages: [ros-humble-ufs-interfaces]
+        packages: [ros-humble-ufs-interfaces]
+date:
+    ubuntu:
+        packages: [libdate-dev]

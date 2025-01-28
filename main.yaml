@@ -8,3 +8,8 @@ ufs_date:
         jammy:
             apt:
                 packages: [libdate-dev]
+rosidl_runtime_rs:
+    ubuntu:
+        jammy:
+            apt:
+                packages: [rosidl_runtime_rs]

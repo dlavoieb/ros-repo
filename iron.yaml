@@ -1,0 +1,5 @@
+ufs_interfaces:
+    ubuntu:
+        jammy:
+            apt:
+                packages: [ros-iron-ufs-interfaces]
